@@ -1,0 +1,89 @@
+body{
+
+background-image: linear-gradient(45deg, rgb(86, 95, 151) 0%, rgb(86, 95, 151) 63%,rgb(105, 118, 165) 63%, rgb(105, 118, 165) 75%,rgb(125, 141, 179) 75%, rgb(125, 141, 179) 81%,rgb(144, 165, 193) 81%, rgb(144, 165, 193) 85%,rgb(164, 188, 207) 85%, rgb(164, 188, 207) 90%,rgb(183, 211, 221) 90%, rgb(183, 211, 221) 100%);
+;
+margin: 0;
+
+}
+
+.logsection{
+
+    width: 50%;
+    height: 60%;
+    background: rgb(183, 211, 221,0.4);
+
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-top: 150px;*/
+    display: block;
+    border-top-right-radius: 25%;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 4%;
+    border-style: inset;
+
+}
+
+button{
+
+    margin-top: 20px;
+
+}
+
+.form{
+
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+/*display: block;*/
+padding: 10px 10px 10px 40px;
+}
+input{
+background-color: whitesmoke;
+border:1px solid black;
+outline: none;
+}
+
+img{
+margin-left: 45%;
+margin-right: 49%;
+margin-top: 2px;
+margin-top: 10px;
+}
+
+.copyright{
+padding-left: 20px;
+color: white;
+font-style: georgia;
+font-size: small;
+text-align: center;
+}
+
+li{
+
+    list-style: none;
+
+}
+ul{
+    float: left;
+   
+}
+
+.menu{
+color: whitesmoke;
+width: 100%;
+margin-bottom: 80px;
+padding-top: 20px;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover{
+
+    color:rgb(183, 211, 221,0.9) ;
+}
